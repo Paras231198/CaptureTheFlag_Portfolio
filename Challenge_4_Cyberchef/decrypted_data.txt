@@ -1,0 +1,18 @@
+Decrypted Data:
+----------------
+
+Message 1:
+Decrypted Text: Hello, world!
+Decryption Method: AES-256-CBC
+
+Message 2:
+Decrypted Text: This is a secret message.
+Decryption Method: RSA-2048
+
+Message 3:
+Decrypted Text: The password is 12345.
+Decryption Method: Triple DES
+
+Message 4:
+Decrypted Text: Access granted.
+Decryption Method: Blowfish
