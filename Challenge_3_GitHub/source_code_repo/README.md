@@ -4,8 +4,8 @@ This repository contains sample code files for the code analysis challenge. Part
 
 ## Files:
 
-- `index.html`: HTML file for the main webpage.
-- `script.js`: JavaScript file containing client-side scripts.
-- `style.css`: CSS file for styling the webpage.
+- [`index.html`](https://github.com/Paras231198/CaptureTheFlag_Portfolio/blob/main/Challenge_3_GitHub/source_code_repo/index.html): HTML file for the main webpage.
+- [`script.js`](https://github.com/Paras231198/CaptureTheFlag_Portfolio/blob/main/Challenge_3_GitHub/source_code_repo/script.js): JavaScript file containing client-side scripts.
+- [`style.css`](https://github.com/Paras231198/CaptureTheFlag_Portfolio/blob/main/Challenge_3_GitHub/source_code_repo/style.css): CSS file for styling the webpage.
 
-Participants should thoroughly analyze each file and document any findings in the vulnerabilities report.
+Thoroughly analyzed each file and document any findings in the vulnerabilities report.
