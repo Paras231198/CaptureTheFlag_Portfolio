@@ -12,7 +12,7 @@ Reviewed a sample source code repository on GitHub and identified potential vuln
 4. Shared my findings and analysis report with the organizers.
 
 ## Files:
-- `source_code_repo/`: Sample repository for code analysis.
-- `vulnerabilities_report.md`: Vulnerabilities and analysis report.
+- [`source_code_repo/`](https://github.com/Paras231198/CaptureTheFlag_Portfolio/tree/main/Challenge_3_GitHub/source_code_repo): Sample repository for code analysis.
+- [`vulnerabilities_report.md`](https://github.com/Paras231198/CaptureTheFlag_Portfolio/blob/main/Challenge_3_GitHub/vulnerabilities_report.md): Vulnerabilities and analysis report.
 
 Happy analyzing!
