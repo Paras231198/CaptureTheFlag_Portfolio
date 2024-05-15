@@ -13,7 +13,7 @@ I was provided with sample links and IP addresses. My task was to analyze these 
 5. I shared my analysis report with the organizers.
 
 ## Files:
-- `malicious_link_analysis.md`: Documented analysis of suspicious links.
-- `ip_address_analysis.md`: Documented analysis of suspicious IP addresses.
+- [`malicious_link_analysis.md`](https://github.com/Paras231198/CaptureTheFlag_Portfolio/blob/main/Challenge_5_Virustotal/malicious_link_analysis.md): Documented analysis of suspicious links.
+- [`ip_address_analysis.md`](https://github.com/Paras231198/CaptureTheFlag_Portfolio/blob/main/Challenge_5_Virustotal/malicious_link_analysis.md): Documented analysis of suspicious IP addresses.
 
 Happy analyzing for threats!
