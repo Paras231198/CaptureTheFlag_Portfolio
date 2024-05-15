@@ -1,0 +1,18 @@
+Encrypted Data:
+----------------
+
+Message 1:
+Encrypted Text: 2B2jKFw0RKzW2z1S9sl+7w==
+Encryption Method: AES-256-CBC
+
+Message 2:
+Encrypted Text: T4JyTPhjONqXk7SfG45BzA==
+Encryption Method: RSA-2048
+
+Message 3:
+Encrypted Text: R0nEjQkW9rSdPLn6vDWzKg==
+Encryption Method: Triple DES
+
+Message 4:
+Encrypted Text: CbNFyOuzlTtQByN4DlqXGw==
+Encryption Method: Blowfish
